@@ -102,7 +102,7 @@ apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 - contoh nama domain punya aku,silahkan ganti dengan punya kamu
 ```
 cat >/root/domain <<EOF
-mantapxsl.my.id
+arlanhaerudin.my.id
 EOF
 ```
 - ganti arlanhaerudin.my.id menjadi nama domain punya kamu
